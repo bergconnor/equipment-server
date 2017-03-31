@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/bergconnor/equipment-server/issues"
   },
-  "homepage": "https://github.com/bergconnor/equipment-server#readme"
+  "homepage": "https://github.com/bergconnor/equipment-server#readme",
+  "dependencies": {
+    "sqlite3": "3.1.8"
+  }
 }
