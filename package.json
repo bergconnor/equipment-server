@@ -1,10 +1,11 @@
 {
-  "name": "equipment-server",
+  "name": "scrumtastic",
   "version": "1.0.0",
-  "description": "A web app to display a gallery of equipment items.",
+  "description": "A web app for SCRUM software development.",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "migrate": "node scripts/migrate.js"
   },
   "repository": {
     "type": "git",
